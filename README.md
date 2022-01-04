@@ -2,7 +2,8 @@
 
 COMPUTER PROJECT RAILWAY RESERVATION
 
-ACKNOWLEDGEMENT
+ACKNOWLEDGEMENT:
+
 It is my utmost pleasure to express deep sense of gratitude towards Mrs. Sofia Goel, our computer teacher who directed us to complete this project successfully. Her valuable guidance & support are considerably responsible for helping this project attain present form. I would also duly thank her for letting me use and practice in the school computer lab while working on this project.
 
 INTRODUCTION
